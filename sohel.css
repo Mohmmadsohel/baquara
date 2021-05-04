@@ -24,7 +24,7 @@ h1{
     background-image: url("background.jpg");
 }
 section{
-    height: 500px;
+    height: 1000px;
 }
 #close{
     text-decoration:none ;
@@ -45,4 +45,12 @@ section{
 } 
 .track p{
     font-family: 'Itim',cursive;
+}
+#sakib{
+    float: left;
+    width: 35%;
+    padding: 2%;
+    margin-left: 3%;
+    margin-right: 3%;
+   
 }
