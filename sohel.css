@@ -34,3 +34,15 @@ section{
     color: white;
     font-size: 10px;
 }
+.second{
+    float:left;
+    width: 40%;
+    padding: 5%;
+}
+.second p{
+    font-family:'Zen Dots',cursive;
+    font-weight: 50px;
+} 
+.track p{
+    font-family: 'Itim',cursive;
+}
