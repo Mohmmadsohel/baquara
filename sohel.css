@@ -1,0 +1,22 @@
+.track{
+    width:40%;
+    padding: 5%;
+    float: left;
+
+}
+span{
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 1cm;
+    font-weight: 700;
+}
+#sojib{
+    color: orange;
+}
+img{
+    width: 100%;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font: size 30px;
+    color: mediumorchid;
+}
